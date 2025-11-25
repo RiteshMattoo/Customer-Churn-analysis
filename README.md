@@ -1,30 +1,30 @@
 **📊 Customer Churn Analysis Project (SQL + Power BI)**
 
-This project is an end-to-end Customer Churn Analysis built using:
+   This project is an end-to-end Customer Churn Analysis built using:
 
-MySQL → Data Cleaning & Feature Engineering
+   MySQL → Data Cleaning & Feature Engineering
 
-Power BI → Dashboard & Insights
+  Power BI → Dashboard & Insights
 
-CSV Dataset → Telco Customer Churn data
+  CSV Dataset → Telco Customer Churn data
 
-The goal is to identify what factors influence customer churn and present insights using interactive dashboards.
+  The goal is to identify what factors influence customer churn and present insights using interactive dashboards.
 
 **📌 1. Dataset Description**
 
-The dataset contains 7,043 customer records with fields like:
+ The dataset contains 7,043 customer records with fields like:
 
-Customer demographics (gender, senior citizen, partner, dependents)
+ Customer demographics (gender, senior citizen, partner, dependents)
 
-Subscription details (contract, internet service, payment method)
+ Subscription details (contract, internet service, payment method)
 
-Charges (monthly charges, total charges)
+ Charges (monthly charges, total charges)
 
-Target variable → Churn (1 = Yes, 0 = No)
+ Target variable → Churn (1 = Yes, 0 = No)
 
 **📌 2. SQL Data Cleaning (MySQL)**
 
-✔️ Remove Extra Spaces
+ ✔️ Remove Extra Spaces
 
 UPDATE customers
 
