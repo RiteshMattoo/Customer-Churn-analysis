@@ -170,7 +170,7 @@ Average Monthly Charges
 
 ### Churn by Contract Type
 
-![Churn By Contract Type](Screenshot3.png)
+![Churn By Contract Type](Screenshot.3.png)
 
 ### Tenure Distribution
 
