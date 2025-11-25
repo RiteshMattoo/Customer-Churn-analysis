@@ -162,19 +162,19 @@ Average Monthly Charges
 
 ### Dashboard Overview
 
-![Dashboard](PowerBI/Screenshot 1.jpeg)
+![Dashboard](PowerBI/Screenshot1.png)
 
 ### Male Vs Female churn rate
 
-![Male Vs Female Churn Rate](PowerBI/Screenshot 2.jpeg)
+![Male Vs Female Churn Rate](PowerBI/Screenshot2.png)
 
 ### Churn by Contract Type
 
-![Churn By Contract Type](PowerBI/Screenshot 3.jpeg)
+![Churn By Contract Type](PowerBI/Screenshot3.png)
 
 ### Tenure Distribution
 
-![Tenure Distribution](PowerBI/Screenshot 4.jpeg)
+![Tenure Distribution](PowerBI/Screenshot4.png)
 
 
 ## 📚 Key Insights from the Dashboard
